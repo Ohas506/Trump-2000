@@ -10,7 +10,7 @@ e = campaignTrail_temp;
 
             $(".container")[0].style.backgroundColor = "#00c7fc";
 
-            document.getElementById("header").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Trump_2000.svg/1200px-Trump_2000.svg.png";
+            document.getElementById("header").src = "https://cdn.discordapp.com/attachments/1207853324380934184/1208978780161318922/pat.jpg?ex=65e5403a&is=65d2cb3a&hm=189cb775ca5d9134d6c5358f798d3342931b826f8a5c753f08d6a99844593e96&";
 
             document.body.background = "https://static.politico.com/dims4/default/07bea10/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F36%2F01%2F40ab1a5d456b998660bfea35869e%2Ftrump.jpg";
 
